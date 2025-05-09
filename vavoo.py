@@ -9,7 +9,7 @@ PASSWORD = "Sally"
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
 HEADER = "&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
 USR = "MarioVio1"
-BRANCH = "main"
+BRANCH = "OMGPRX"
 
 OUTPUT_FILE = "channels_italy.m3u8"
 BASE_URL = "https://vavoo.to"
